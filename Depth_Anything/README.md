@@ -1,4 +1,4 @@
-### Depth Inference System
+### DEPTH ANYTHING SYSTEM
 Este proyecto utiliza un modelo ONNX para realizar inferencias de profundidad en tiempo real a partir de cuadros de video capturados por una cámara. El sistema consta de tres módulos principales: inference.py, transform.py y main.py.a.
 
 ### DESCRIPCION DE MODULOS
